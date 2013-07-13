@@ -1,0 +1,30 @@
+<controls>
+    <Toggle_Syphon_is_on>
+        <name>Syphon is on</name>
+        <value>0</value>
+    </Toggle_Syphon_is_on>
+    <SliderFloat_Easy_Cam_Distance>
+        <name>Easy Cam Distance</name>
+        <value>1250.000000000</value>
+    </SliderFloat_Easy_Cam_Distance>
+    <SliderFloat_OrienationX>
+        <name>OrienationX</name>
+        <value>0.000000000</value>
+    </SliderFloat_OrienationX>
+    <SliderFloat_OrienationY>
+        <name>OrienationY</name>
+        <value>0.000000000</value>
+    </SliderFloat_OrienationY>
+    <SliderFloat_OrienationZ>
+        <name>OrienationZ</name>
+        <value>0.000000000</value>
+    </SliderFloat_OrienationZ>
+    <SliderInt_Max_Iterations>
+        <name>Max Iterations</name>
+        <value>2320</value>
+    </SliderInt_Max_Iterations>
+    <SliderInt_Max_Frame_dist>
+        <name>Max Frame dist</name>
+        <value>183</value>
+    </SliderInt_Max_Frame_dist>
+</controls>
